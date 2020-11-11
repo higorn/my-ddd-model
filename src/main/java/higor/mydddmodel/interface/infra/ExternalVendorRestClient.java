@@ -5,7 +5,7 @@
  */
 package higor.mydddmodel.infra;
 
-import higor.mydddmodel.domain.vendor.ExternalVendorService;
+import higor.mydddmodel.application.ExternalVendorService;
 
 /**
  *

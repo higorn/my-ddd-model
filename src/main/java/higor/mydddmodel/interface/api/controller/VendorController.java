@@ -3,7 +3,7 @@
  *
  * Created on 24/10/2020, 20:13
  */
-package higor.mydddmodel.controller;
+package higor.mydddmodel.application.controller;
 
 /**
  *

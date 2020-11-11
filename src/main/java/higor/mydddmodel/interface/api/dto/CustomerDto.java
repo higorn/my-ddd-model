@@ -3,7 +3,7 @@
  *
  * Created on 24/10/2020, 18:42
  */
-package higor.mydddmodel.facade.dto;
+package higor.mydddmodel.application.facade.dto;
 
 /**
  *
